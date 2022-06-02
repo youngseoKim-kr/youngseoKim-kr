@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=252,186,3&height=300&section=header&text=YOUNGSEO-KIM&fontSize=90)
 
+
+## FRONTEND DEVELOPER
+
+<br /> 
+<br/>
 💪 새로운 기술을 두려워하지 않는 호기심 많은 개발자입니다.
+
 
 <br/>
 <br/>
